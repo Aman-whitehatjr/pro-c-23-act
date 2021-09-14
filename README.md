@@ -1,1 +1,2 @@
-# pro-c-23-act
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
